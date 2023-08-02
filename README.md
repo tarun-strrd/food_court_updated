@@ -7,6 +7,8 @@
 
 ## start backend
 
+creat .env file and add your MONGO_URL and JWT_SECRET
+
 
 `cd backend`
 

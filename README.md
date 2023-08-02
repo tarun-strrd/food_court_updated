@@ -17,4 +17,4 @@
 
 open http://localhost:4200/
 
-deployed URL : still in progress...
+deployed URL : https://foodcourt-cgcm.onrender.com/
